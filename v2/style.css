@@ -1,0 +1,98 @@
+*
+{
+	border:solid 1px;
+}
+
+nav
+{
+	width: 100px;
+}
+
+header
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.image
+{
+	display: flex;
+	justify-content: center;
+	padding-bottom: 22Px;
+	padding-top: 110px;
+
+}
+
+.google
+{
+	height: 92px;
+    width: 272px;
+}
+
+.recherche
+{
+	display: flex;
+	justify-content: center;
+}
+
+.logo
+{
+	height: 20px;
+	width:20px;
+}
+
+.barrerecherche
+{
+	height: 20px;
+	width: 400px;
+}
+
+.recherche2
+{
+	display: flex;
+	align-items: center;
+	border-radius: 15px;
+    padding: 4px 3px 3px 4px;
+}
+
+.bouton
+{
+	display: flex;
+	justify-content: center;
+	padding-bottom: 100px
+}
+
+.bout
+{
+	padding-top: 20px;
+}
+
+.footer
+{ 
+	background-color: grey;
+	
+ }
+
+.bas
+{
+	display: flex;
+	justify-content: space-between;
+}
+.footer-left
+{
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: nowrap;
+}
+
+.footer-right
+{
+	display: flex;
+	justify-content: flex-end;
+	padding-left: 100px;
+
+}
+
+
+
+
